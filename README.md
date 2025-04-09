@@ -1,9 +1,8 @@
-- 👋 Hi, I’m David Pires
-- 🌱 Computer Engineering Student at ISEC
-- 👀 Sports and Gaming
-- 💞️ "If you don't fail, you are not even trying. To get something you never had, you have to do something you never did"
 
   /* still learing */
+
+getting used to this
+
 
 <!---
 itsnotpires/itsnotpires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
