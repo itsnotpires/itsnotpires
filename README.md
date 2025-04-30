@@ -1,5 +1,5 @@
 
-  /* still learing */
+  /* still learning */
 
 getting used to this
 
